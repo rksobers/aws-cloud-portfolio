@@ -1,9 +1,5 @@
 # Scale Watch
 
-## Status
-
-🚧 In Progress
-
 ## Project Goal
 
 Scale Watch demonstrates a scalable AWS web application architecture using Amazon EC2, an Application Load Balancer, Amazon RDS, and IAM. The project focuses on scalability, high availability, and foundational cloud design principles.
